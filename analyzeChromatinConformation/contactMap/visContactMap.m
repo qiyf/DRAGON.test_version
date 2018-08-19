@@ -1,6 +1,6 @@
 %%% visContactMap.m
 %%% visulize the simulated contact map vs. Hi-C map 
-%%% Last modified: 04/24/2018
+%%% Last modified: 08/04/2018
 
 %% information about the input parameters:
 % celltype            % options refer to README 
